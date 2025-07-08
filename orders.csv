@@ -1,0 +1,4 @@
+order_id,customer_name,order_date,amount
+1,John Doe,2023-12-12,100
+2,Jane Smith,2023-12-13,200
+3,Tom Hardy,INVALID_DATE,300
